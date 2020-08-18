@@ -17,3 +17,5 @@ Elle est composé:
 5. Les cartes de présentation (cartes et listes de cartes)
 6. Les commentaires (organisme et section commentaire)
 7. Une présentation ressource et une présentation d'un élément
+
+Vous devez ouvrir le fichier index.html pour accéder à l'ensemble des composants.
